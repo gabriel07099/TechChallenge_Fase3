@@ -8,7 +8,7 @@ O objetivo é organizar, tratar e analisar os dados para apoiar respostas sobre 
 
 ## Objetivos da análise
 
-O projeto busca responder questões como:
+O projeto busca responder as seguintes questões:
 
 - Como está estruturado o mercado brasileiro de Dados?
 - Quais perfis profissionais são mais valorizados?
