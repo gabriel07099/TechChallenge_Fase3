@@ -8,7 +8,7 @@ O objetivo é organizar, tratar e analisar os dados para apoiar respostas sobre 
 
 ## Objetivos da análise
 
-O projeto busca responder questões como:
+O projeto busca responder as seguintes questões:
 
 - Como está estruturado o mercado brasileiro de Dados?
 - Quais perfis profissionais são mais valorizados?
@@ -130,9 +130,12 @@ https://www.kaggle.com/datahackers/datasets
 
 ## Autores
 
+```text
 Armando Caliari Silva			      rm372117
 Caike Herbe Jauch Soares			rm371123
 Gabriel Santos de Oliveira Arruda		rm371178
 Gustavo Ferreira da Silva Santana		rm370545
 Kauan Lucas Gomes Jardim			rm370438
+```
+
 
