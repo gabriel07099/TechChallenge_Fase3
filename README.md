@@ -44,7 +44,7 @@ Amazon Athena
 Power BI
 ```
 
-![Arquitetura da solução](arquitetura/arquitetura_aws.jpeg)
+![Arquitetura da solução](arquitetura/arquitetura_aws.png)
 
 ## Tecnologias utilizadas
 
