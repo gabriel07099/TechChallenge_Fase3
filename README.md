@@ -125,7 +125,7 @@ tech-challenge-fase-3/
 
 ## Fonte dos dados
 
-State of Data Brasil — Data Hackers  
+State of Data Brasil - Data Hackers  
 https://www.kaggle.com/datahackers/datasets
 
 ## Autores
