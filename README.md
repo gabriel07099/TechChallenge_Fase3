@@ -114,6 +114,11 @@ tech-challenge-fase-3/
 │   ├── 02_silver_to_gold.py
 │
 │
+|── data/
+│   ├── Bronze
+│   ├── Silver
+|   ├── Gold
+|
 ├── arquitetura/
 │   ├── arquitetura_aws.drawio
 │   └── arquitetura_aws.png
