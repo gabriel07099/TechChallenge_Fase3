@@ -25,7 +25,11 @@ A solução utiliza uma arquitetura de Data Lake organizada nas camadas Bronze, 
 ```text
 State of Data
       ↓
-AWS Glue
+Upload manual dos CSVs
+      ↓
+Amazon S3 - Landing Zone
+      ↓
+AWS Glue Studio - Visual ETL
       ↓
 Amazon S3 - Bronze
       ↓
@@ -37,14 +41,11 @@ AWS Glue + PySpark
       ↓
 Amazon S3 - Gold
       ↓
-AWS Glue Data Catalog
-      ↓
 Amazon Athena
       ↓
 Power BI
 ```
-
-![Arquitetura da solução](arquitetura/arquitetura_aws.png)
+![Arquitetura da solução](arquitetura/arquitetura_aws_v2.png)
 
 ## Tecnologias utilizadas
 
